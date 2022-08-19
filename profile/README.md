@@ -1,1 +1,1 @@
-Email and SMS APIs for testing and application development. Create unlimited disposable or permanent email addresses and use real phone numbers to receive SMS verification events.
+Email and SMS APIs for testing and application development. Create unlimited disposable or permanent email addresses and use real phone numbers to receive SMS verification events. Sign up for a [free account](https://app.mailslurp.com) or see the [documentation](https://docs.mailslurp.com) to get started.
